@@ -1,4 +1,4 @@
-package zed
+package zed_net
 
 foreign import "lib/zed_net.lib"
 
